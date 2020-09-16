@@ -1,0 +1,19 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "17:41:15 11/29/2019 "
+* "netlist" "c:\users\mamad\desktop\avlsi_ca2\hpice_codes\raw_codes\tg_xor.sp "
+* "runtitle" ".option nomod"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 1 = 950.0000m       
++ a = 950.0000m       
++ ab = 100.7987u       
++ b = 950.0000m       
++ bb = 156.2601m       
++ c = 422.1852m       
+***   END: Saved Operating Point ***                     

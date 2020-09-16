@@ -1,0 +1,21 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "17:36:11 11/29/2019 "
+* "netlist" "c:\users\mamad\desktop\avlsi_ca2\hpice_codes\raw_codes\xor_pseudonmos.sp "
+* "runtitle" ".option nomod"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 1 = 950.0000m       
++ 4 =  23.9828m       
++ 5 =  17.6042m       
++ a = 950.0000m       
++ ab = 100.7990u       
++ b = 950.0000m       
++ bb = 100.7987u       
++ c =  48.3491m       
+***   END: Saved Operating Point ***                     

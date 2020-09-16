@@ -1,0 +1,8 @@
+$DATA1 SOURCE='HSPICE' VERSION='A-2008.03 32-BIT'
+.TITLE '.option nomod'
+ trise            tfall            tphla            tplha             
+ tpda             tphlb            tplhb            tpdb              
+ temper           alter#            
+ -2.471e-11       -4.469e-11       -9.849e-11       -3.398e-11        
+ -6.624e-11       -4.849e-11        1.602e-11       -1.624e-11        
+   25.0000           1.0000         

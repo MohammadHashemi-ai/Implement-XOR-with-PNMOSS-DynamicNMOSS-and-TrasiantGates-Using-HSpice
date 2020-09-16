@@ -1,0 +1,24 @@
+* "simulator" "HSPICE" 
+* "version" "A-2008.03 32-BIT"
+* "format" "HSP"
+* "rundate" "17:30:36 11/29/2019 "
+* "netlist" "c:\users\mamad\desktop\avlsi_ca2\hpice_codes\raw_codes\xor_dynamiccmos.sp "
+* "runtitle" ".option nomod"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 1 = 950.0000m       
++ 4 =  32.6797u       
++ 5 =  30.7399u       
++ a =   1.0000        
++ ab =  33.4719u       
++ b =   1.0000        
++ bb =  33.4719u       
++ c =  37.6092u       
++ cc =  23.8715u       
++ clk =   1.0000        
++ clkclk =  33.4719u       
+***   END: Saved Operating Point ***                     
